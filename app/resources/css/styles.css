@@ -1,3 +1,13 @@
+main {
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 33px;
+    padding: 10px;
+}
+
 #particles-js {
     background-color: #0c0948;
 }
